@@ -30,7 +30,7 @@
 
 **Thoughts**: Easy Peasy
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sum_minimums.py]
 
 ### Day 4: April 10, 2021
 
@@ -38,7 +38,7 @@
 
 **Thoughts**: Light Work
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/interpolation.js]
 
 ### Day 5: April 11, 2021
 
@@ -46,23 +46,23 @@
 
 **Thoughts**: Took less lines of code than I thought
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/slice.js]
 
 ### Day 6: April 12, 2021
 
-**Today's Progress**: Completed a recursive javascript code challenge.
+**Today's Progress**: completed a JS challenge that returns the sum of values in an array
 
 **Thoughts**: Took me about an hour and a half to figure out after constant research but I got it.
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sumsR.js]
 
 ### Day 7: April 13, 2021
 
-**Today's Progress**: JS challenge that finds the sum of an array
+**Today's Progress**: JS challenge that finds the average of an array
 
-**Thoughts**: Took more time for me to gather the logic to complete this challenge
+**Thoughts**: Light work
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/average.js]
 
 ### Day 8: April 14, 2021
 
@@ -70,7 +70,7 @@
 
 **Thoughts**: Python is not that bad
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/split_strings.py]
 
 ### Day 9: April 15, 2021
 
@@ -78,4 +78,4 @@
 
 **Thoughts**: i am coming more fond of python
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sum_minimums.py]
