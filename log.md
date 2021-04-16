@@ -23,3 +23,59 @@
 **Thoughts**: Took me about an hour and a half to figure out after constant research but I got it.
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 3: April 9, 2021
+
+**Today's Progress**: Completed a JS challenge that return the sum of values in a given list
+
+**Thoughts**: Easy Peasy
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 4: April 10, 2021
+
+**Today's Progress**: JS challenge that ask to create a function that returns the string in the parameter in the position of a hardcoded string
+
+**Thoughts**: Light Work
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 5: April 11, 2021
+
+**Today's Progress**: Completed on JS challenge
+
+**Thoughts**: Took less lines of code than I thought
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 6: April 12, 2021
+
+**Today's Progress**: Completed a recursive javascript code challenge.
+
+**Thoughts**: Took me about an hour and a half to figure out after constant research but I got it.
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 7: April 13, 2021
+
+**Today's Progress**: JS challenge that finds the sum of an array
+
+**Thoughts**: Took more time for me to gather the logic to complete this challenge
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 8: April 14, 2021
+
+**Today's Progress**: completed a python challenge
+
+**Thoughts**: Python is not that bad
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
+
+### Day 9: April 15, 2021
+
+**Today's Progress**: completed another python challenge that gave the sum of minimums of a group of list
+
+**Thoughts**: i am coming more fond of python
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/codeDay2.js]
