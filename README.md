@@ -80,3 +80,12 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sum_minimums.py]
 
+### Day 9: April 15, 2021
+
+**Today's Progress**: completed a factorial division challenge that was pretty challenging. Didn't get to complete it for larger numbers though
+
+**Thoughts**: I wonder how those people came upon the solution for larger numbers
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/factorials.js]
+
+
