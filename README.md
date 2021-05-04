@@ -88,4 +88,12 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/factorials.js]
 
+### Day 11: May 3, 2021
+
+**Today's Progress**: completed two leet code challenges. One dealing with database selection. Another code challenge dealing with linked list.
+
+**Thoughts**: New concepts like this really help my problem solving skills.
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/factorials.js]
+
 
