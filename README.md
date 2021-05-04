@@ -94,6 +94,6 @@
 
 **Thoughts**: New concepts like this really help my problem solving skills.
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/factorials.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/linkedList.js]
 
 
