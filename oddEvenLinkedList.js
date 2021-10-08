@@ -9,6 +9,7 @@ var oddEvenList = function (head) {
         }
     }
     let node, temp;
+    // convert the array to a linked list
     // create a for loop that loops backwards on the array so the last node can point to null
     for(let i = head.length - 1; i >= 0; i--) {
         // if node is false set node equal a new Node because during the first loop, node must point to a null value
