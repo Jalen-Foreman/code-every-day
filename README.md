@@ -96,4 +96,11 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/linkedList.js]
 
+### Day 12: October 9, 2021
+
+**Today's Progress**: Completed a problem dealing with duplicates using a hash map. Completed it both in javascript and python.
+
+**Thoughts**: I believe im going to start doing a python day for challenges and a javascript day for challenges
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/linkedList.js]
 
