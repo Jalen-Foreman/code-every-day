@@ -25,20 +25,29 @@
 
 # print(dic)
 
-def contains_duplicate(data):
-    dic = {}
-    if type(data) == list:
-        for index in range(len(data)):
-            curr = data[index]
-            if curr in dic.keys():
-                return True
-            else:
-                dic[curr] = True
-        return False
-    else:
-        return 'invalid input'
+# def contains_duplicate(data):
+#     dic = {}
+#     if type(data) == list:
+#         for index in range(len(data)):
+#             curr = data[index]
+#             if curr in dic.keys():
+#                 return True
+#             else:
+#                 dic[curr] = True
+#         return False
+#     else:
+#         return 'invalid input'
 
-print(contains_duplicate([1,2,3,4,3,5]))
+# Modified solution
+def contains_duplicate(data):
+    # put list into a set
+    # since sets don't allow duplicates, compare the lenght of list with the length of set
+    # if they are the same length return false, else return true
+    return not len(data) == len(set(data))
+
+# print(contains_duplicate([1,2,3,4,5])) // False
+# print(contains_duplicate([1,2,3,3,5])) // True
+
             
 
     
