@@ -102,5 +102,6 @@
 
 **Thoughts**: I believe im going to start doing a python day for challenges and a javascript day for challenges
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/linkedList.js]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/contains_duplicates.py
+] [https://github.com/Jalen-Foreman/code-every-day/blob/master/containsDuplicates.js]
 
