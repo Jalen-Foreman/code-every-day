@@ -7,7 +7,6 @@
 // Solving simpler problems
 // const arr = []
 // console.log(Array.isArray(arr))
-
 const containsDuplicates = (arr) => {
     // if param is of type arr continue else return invalid input
     // loop through arr and place each index into a hash table
