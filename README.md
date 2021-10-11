@@ -102,5 +102,16 @@
 
 **Thoughts**: I believe im going to start doing a python day for challenges and a javascript day for challenges
 
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/contains_duplicates.py
+] [https://github.com/Jalen-Foreman/code-every-day/blob/master/containsDuplicates.js]
+
+### Day 13: October 10, 2021
+
+**Today's Progress**: This was a javascript day. I've completed frequency counter problems and data structure manipluation problems. 
+
+**Thoughts**: My problem solving skills are coming back. I have to continue to do these everyday.
+
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sumZero.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/Anagrams.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/interview.js]
+
+
 
