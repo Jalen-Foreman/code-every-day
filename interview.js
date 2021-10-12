@@ -5,6 +5,9 @@ const cities = [
   { country: 'USA', name: 'Springfield', pop: 60300 },
   { country: 'Germany', name: 'Berlin', pop: 120000 }
 ];
+// https://github.com/Jalen-Foreman/code-every-day/blob/master/sumZero.js
+// https://github.com/Jalen-Foreman/code-every-day/blob/master/Anagrams.js
+// https://github.com/Jalen-Foreman/code-every-day/blob/master/interview.js
 
 // Calling your function and logging the results\
 // Group the data by country
