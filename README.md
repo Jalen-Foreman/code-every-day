@@ -113,5 +113,10 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sumZero.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/Anagrams.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/interview.js]
 
+### Day 13: October 12, 2021
 
+**Today's Progress**: Completed a coding challenge in python using pointers
 
+**Thoughts**: It took me a while to wrap my head around the concept of using the pointers to solve the problem but I beginning to understand the importance of pointers and their creative usage.
+
+**Link(s) to work**: []
