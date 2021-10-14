@@ -120,3 +120,11 @@
 **Thoughts**: It took me a while to wrap my head around the concept of using the pointers to solve the problem but I beginning to understand the importance of pointers and their creative usage.
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/count_unique_value.py]
+
+### Day 15: October 14, 2021
+
+**Today's Progress**: Completed challenge's using hash maps and pointers.
+
+**Thoughts**: With some coding problems, learning equations and common algorithms and using them to come up with the solution before you even right code is very useful. 
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/count_unique_value.py]
