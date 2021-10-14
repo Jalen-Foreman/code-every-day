@@ -127,4 +127,4 @@
 
 **Thoughts**: With some coding problems, learning equations and common algorithms and using them to come up with the solution before you even right code is very useful. 
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/count_unique_value.py]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/max_subarray.py], [https://github.com/Jalen-Foreman/code-every-day/blob/master/twoSum.py]
