@@ -113,7 +113,7 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/sumZero.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/Anagrams.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/interview.js]
 
-### Day 13: October 12, 2021
+### Day 14: October 12, 2021
 
 **Today's Progress**: Completed a coding challenge in python using pointers
 
