@@ -128,3 +128,12 @@
 **Thoughts**: With some coding problems, learning equations and common algorithms and using them to come up with the solution before you even right code is very useful. 
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/max_subarray.py], [https://github.com/Jalen-Foreman/code-every-day/blob/master/twoSum.py]
+
+### Day 16: October 15, 2021
+
+**Today's Progress**: Learned a new way of slicing and combining lists in python
+
+**Thoughts**: Looking at other solutions for a problem really gives me some better tools in my arsenal for other challenges to come.
+
+**Link(s) to work**: []
+
