@@ -143,6 +143,6 @@
 
 **Thoughts**: It took me too long to think of a solution for the problem, with repition I will get better
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/merge_sorted_array.py]
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/intersect.js]
 
 
