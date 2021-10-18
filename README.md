@@ -137,3 +137,12 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/merge_sorted_array.py]
 
+### Day 17: October 17, 2021
+
+**Today's Progress**: completed one challenge that implemented the use of pointers
+
+**Thoughts**: It took me too long to think of a solution for the problem, with repition I will get better
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/merge_sorted_array.py]
+
+
