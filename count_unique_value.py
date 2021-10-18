@@ -8,7 +8,7 @@ def count_unique_val(list):
     # make a left-l and right-r pointer
     l = 0
     r = 1
-    # while r is less than arr.length - 1
+    # while r is less than arr.length
     while r < len(list):
     # if l is not equal to r then increment both pointers
         l_pointer = list[l]
@@ -20,9 +20,8 @@ def count_unique_val(list):
     # when l is equal to r, increment r until it is not equal to l
         else: 
             r += 1
-    # when l is no longer equal to r then increment and update l's index with r's index
-    return l + 1
     # return the index of l + 1
+    return l + 1
 
 
 # print(count_unique_val([1, 1, 1, 2]))
