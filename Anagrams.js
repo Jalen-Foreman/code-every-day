@@ -1,5 +1,5 @@
 /*
-Given to strings, write a function that checks if the second string was derived from the same characters as the first. Example: Cinema & Iceman
+Given two strings, write a function that checks if the second string was derived from the same characters as the first. Example: Cinema & Iceman
 Inputs & Outputs:
 validAnagram('rat', 'tar') // true
 validAnagram('dog', 'go') // false

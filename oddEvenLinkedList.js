@@ -60,9 +60,7 @@ var oddEvenList = function (head) {
 	return oddStart.next;
 };
 
-console.log(oddEvenList([3, 2, 3, 9, 5])); // [3,3,5,2,9]
-
-
+console.log(oddEvenList([3, 2, 3, 9, 5]));
 
 
 // const node1 = {

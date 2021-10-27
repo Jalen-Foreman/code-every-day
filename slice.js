@@ -1,7 +1,10 @@
-// It's pretty straightforward. Your goal is to create a 
+// create a function that removes the first and last index in string
 
+// Input & Output
+// removeChar('eloquent') return loquen
 
 function removeChar(str) {
+	// remove the beginning and last index using slice
 	return str.slice(1, -1);
 }
 

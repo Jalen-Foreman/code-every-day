@@ -24,3 +24,5 @@ def max_subarray(list):
 
 # print(max_subarray([5, 4, -1, 7, 8]))
 print(max_subarray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+if 15 % 3 == 0:
+    print('Fizz')

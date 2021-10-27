@@ -9,7 +9,10 @@
 def sum_of_minimums(list):
     sum = 0
     for i in range(len(list)):
+        # go through each index and find the minimum of that array
+        # accumulate the sum of all the minimum values throught the sum variable
         sum += min(list[i])
+    # return result
     return sum
 
 

@@ -5,6 +5,7 @@
 // 13
 // 13
 const sumSwap = (arr1, arr2) => {
+    // get the total sum of all elements in both arr1 and arr2
     const arr1Sum = arr1.reduce((sum, index) => {
         sum = sum + index
         return sum
@@ -13,14 +14,9 @@ const sumSwap = (arr1, arr2) => {
         sum = sum + index
         return sum
     })
+    // calculate the difference between the two arr sums
     const difference = arr1Sum > arr2Sum ? arr1Sum - arr2Sum : arr2Sum - arr1Sum
-    //    for(let i = 0; i < arr1.length; i++) {
-    //      for(let j = 0; j < arr2.length; j++) {
-    //        if (arr1[i]+arr2[j] === difference) {
-    //          return [arr1[i], arr2[j]]
-    //        }
-    //      }
-    //    }
+    
     const map = new Map()
     arr1.forEach((element, index) => {
         map.set(element, index)

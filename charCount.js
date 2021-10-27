@@ -70,16 +70,16 @@ charCount({!}) return null
 
 // My modified solution
 
-// const charCount = (str) => {
-// 	const charObj = {};
-// 	for(let char of str) {
-// 		if (/[a-z0-9]/.test(char)) {
-// 			char = char.toLowerCase();
-//             // if its truthy return left arg else if falsey, return right side
-// 			charObj[char] = ++charObj[char] || 1;
-// 		}
-// 	}
-// 	return charObj;
-// };
-// console.log(charCount('I need about 4, 5 , 6 cheeseburgers or imma get Dboy on yo ass.'));
+const charCount = (str) => {
+	const charObj = {};
+	for(let char of str) {
+		if (/[a-z0-9]/.test(char)) {
+			char = char.toLowerCase();
+            // if its truthy return left arg else if falsey, return right side
+			charObj[char] = ++charObj[char] || 1;
+		}
+	}
+	return charObj;
+};
+console.log(charCount('I need about 4, 5 , 6 cheeseburgers or imma get Dboy on yo ass.'));
  

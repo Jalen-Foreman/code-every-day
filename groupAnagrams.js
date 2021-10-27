@@ -50,7 +50,7 @@ var groupAnagrams = function (strs) {
     let map = new Map();
 	for (let i = 0; i < strs.length; i++) {
         let str = strs[i];
-		let sortedchars = str.split('').sort();
+		let sortedchars = str.split('').sort().join();
 		if (map.has(sortedchars)) {
             let current = map.get(sortedchars);
 			current.push(strs[i]);
@@ -59,6 +59,9 @@ var groupAnagrams = function (strs) {
             map.set(sortedchars, [strs[i]]);
 		}
 	}
-	return Array.from(map.values());
+	return map;
 };
 console.log(groupAnagrams(['eat', 'tea', 'tan', 'ate', 'nat', 'bat']));
+// {
+// [a,e,t]: 'eat, tea', 'ate'
+// }
