@@ -145,4 +145,12 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/intersect.js]
 
+### Day 18: October 26, 2021
+
+**Today's Progress**: Haven't been logging my progress recently so these challenges are over a few days of challenges
+
+**Thoughts**: I am beginning to learn the different ways data structures are sorted which is really important for algortihms
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/binary.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/selectionSort.js]
+
 
