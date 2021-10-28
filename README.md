@@ -153,4 +153,10 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/binary.js], [https://github.com/Jalen-Foreman/code-every-day/blob/master/selectionSort.js]
 
+### Day 19: October 28, 2021
 
+**Today's Progress**: I am learning new sort algorithms I haven't learned before and merge sort can be very useful for new coding challenges
+
+**Thoughts**: I know how to implement merge sort now!
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/mergeSort.js]
