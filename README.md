@@ -160,3 +160,11 @@
 **Thoughts**: I know how to implement merge sort now!
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/mergeSort.js]
+
+### Day 20: October 29, 2021
+
+**Today's Progress**: Just learned the implementation of quick sort. 
+
+**Thoughts**: It's cool to realize how much recursion can improve the time complexitity of a function and once you understand it, it can greatly improve your coding ability.
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/quickSort.js]
