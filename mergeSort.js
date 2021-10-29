@@ -1,4 +1,4 @@
-// this function takes two sorted arrays
+
 function merge(arr1,arr2){
     // make an empty array that gets the sorted elements pushed inside of it
     let results = []
@@ -32,12 +32,13 @@ console.log(merge([1,10,50], [2,14,99,100]));
 function mergeSort(arr){
     // this returns the last arr in the divided arrays at the end of the call stack
     if(arr.length <= 1) return arr
-    // get the middle of the original array so it can be divided into two seperate arrays
+    // get the middle of the original/divided array so it can be divided into two seperate arrays
     let mid = Math.floor(arr.length/2)
     // recursively call merge sort on the left side of the array until it returns a single arr
+    // eventually the call stack works its way back up to the first divided array which at that time would be sorted
     let left = mergeSort(arr.slice(0,mid))
     // recursively call merge sort on the right side of the array until it returns a single arr
     let right = mergeSort(arr.slice(mid))
-    // 
+    // send the left and right values into merge so the sorted array can become complete
     return merge(left, right)
 }
