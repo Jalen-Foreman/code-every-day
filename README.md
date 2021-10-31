@@ -168,3 +168,12 @@
 **Thoughts**: It's cool to realize how much recursion can improve the time complexitity of a function and once you understand it, it can greatly improve your coding ability.
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/quickSort.js]
+
+### Day 21: October 31, 2021
+
+**Today's Progress**: Just learned the implementation of radix sort. 
+
+**Thoughts**: I did 95% of the psuedocode by myself and the rest was articulated from the solution. Overall this implementation made me realized all the slick ways you can minimize how many lines of code you need to use.
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/radix.js]
+
