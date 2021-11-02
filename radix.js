@@ -21,7 +21,7 @@ function radixSort(arr){
     let maxDigits = mostDigits(arr)
     // loop from i = 0 up to maxDigits
     for(let i = 0; i < maxDigits; i++){
-    // for each iteration create:
+    // for each iteration:
         // create buckets for each digit(0-9)
         let bucket = Array.from({length: 10}, () => [])
         // place each number in the corresponding bucket based on its kth digit
