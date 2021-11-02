@@ -177,3 +177,12 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/radix.js]
 
+### Day 22: November 1, 2021
+
+**Today's Progress**: learned how to solve three sum in leet code.
+
+**Thoughts**: I tryed to solve it myself but came to no avail. Eventually I will be able to solve lots of problems like this if I continue to solve coding challenges consistently
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/three_sum.py]
+
+
