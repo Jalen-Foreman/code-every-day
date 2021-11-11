@@ -185,4 +185,13 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/three_sum.py]
 
+### Day 23: November 11, 2021
+
+**Today's Progress**: Learning how to use linked list as a data structure and there best use cases
+
+**Thoughts**: Its actually pretty simple can kind of easy to pick up on since i've learned about it in the past
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
+
+
 
