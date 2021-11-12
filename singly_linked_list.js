@@ -68,6 +68,38 @@ class SinglyLinkedList {
         }
         this.length++
     }
+    get(index){
+        if(index < 0 || index >= this.length) return null
+        let counter = 0
+        let current = this.head
+        while(counter !== index){
+            current = current.next
+            counter++
+        }
+        return current
+    }
+    set(val, index){
+        let oldNode = this.get(index)
+        if(oldNode) {
+            oldNode.val = val
+            return true
+        } else {
+            return false
+        }
+    }
+    insert(val, index){
+        if(index < 0 || index > this.length) return false
+        if(index === this.length) return !!this.push(val)
+        if(index === 0) return !!this.shift(val)
+        
+        let prevNode = this.get(index-1)
+        let newNode = new Node(val)  
+        let temp = prevNode.next
+        prevNode.next = newNode
+        newNode.next = temp
+        this.length++
+        return true;
+    }
 }
 
 let list = new SinglyLinkedList()
@@ -76,7 +108,10 @@ list.push('there')
 list.push('Jalen')
 list.push('Yummy boi')
 list.unshift('Boi Ole Boi')
-console.log(list);
+list.set('Josmar', 3);
+console.log(list.insert('great', 3));
+console.log(list.get(3));
+
 
 // let first = new Node('Hi')
 // first.next = new Node('there')
