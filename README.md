@@ -193,5 +193,13 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
 
+### Day 24: November 12, 2021
+
+**Today's Progress**: Learning how to use linked list as a data structure and there best use cases
+
+**Thoughts**: Learned how to insert and update data in linkedlist 
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
+
 
 
