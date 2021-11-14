@@ -201,5 +201,13 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
 
+### Day 25: November 14, 2021
+
+**Today's Progress**: Went over a crash course on swift because im going to be implementing its syntax soon
+
+**Thoughts**: Learning new languages has become easier
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/test.swift]
+
 
 
