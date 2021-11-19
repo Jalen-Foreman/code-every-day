@@ -91,7 +91,7 @@ class SinglyLinkedList {
         if(index < 0 || index > this.length) return false
         if(index === this.length) return !!this.push(val)
         if(index === 0) return !!this.shift(val)
-        
+        jdfgdfdghdfg
         let prevNode = this.get(index-1)
         let newNode = new Node(val)  
         let temp = prevNode.next
@@ -99,6 +99,16 @@ class SinglyLinkedList {
         newNode.next = temp
         this.length++
         return true;
+    }
+    remove(index){
+        if(index < 0 && index >= this.length) return undefined
+        if(index === 0) return this.shift()
+        if(index === this.length - 1) return this.pop()
+        const prevNode = this.get(index-1)
+        const removed = prevNode.next
+        prevNode.next = prevNode.next.next
+        this.length--
+        return removed
     }
 }
 
@@ -109,12 +119,13 @@ list.push('Jalen')
 list.push('Yummy boi')
 list.unshift('Boi Ole Boi')
 list.set('Josmar', 3);
-console.log(list.insert('great', 3));
-console.log(list.get(3));
-
+list.insert('great', 3);
+console.log(list.remove(3));
+console.log(list.get(2));
 
 // let first = new Node('Hi')
 // first.next = new Node('there')
 // first.next.next = new Node('how')
 // first.next.next.next = new Node('are')
 // first.next.next.next.next = new Node('you')
+
