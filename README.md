@@ -209,5 +209,21 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/test.swift]
 
+### Day 26: November 15, 16, 17 2021
+
+**Today's Progress**: Was implemeting authentication on Swift App using AWS Amplify and AWS Cognito 
+
+**Thoughts**: Learning Authentication was most definitely a challenge but through the help of Youtube I was able to implement them into the SwiftApp
+
+**ScreenShot of work**: ![Screen Shot 2021-11-19 at 10 36 33 AM](https://user-images.githubusercontent.com/78430591/142649363-ccaa0357-48a6-4085-9be3-7e0b1f7540ad.png)
+
+### Day 27: November 18, 2021
+
+**Today's Progress**: Almost done with singly linked list data structure 
+
+**Thoughts**: Learned the implementation for removing a node in a singly linked list
+
+**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
+
 
 
