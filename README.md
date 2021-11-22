@@ -209,7 +209,7 @@
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/test.swift]
 
-### Day 26: November 15, 16, 17 2021
+### Day 26: November 15-17, 2021
 
 **Today's Progress**: Was implemeting authentication on Swift App using AWS Amplify and AWS Cognito 
 
@@ -224,6 +224,14 @@
 **Thoughts**: Learned the implementation for removing a node in a singly linked list
 
 **Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
+
+### Day 28: November 19-21, 2021
+
+**Today's Progress**: Forgot to log my progress with the swift app but progress has been steady. Still trying to implement social sign in with AWS Amplify
+
+**Thoughts**: I have to learn to be consistent but it's a learning process that I am going to overcome. Before you know it im going to look up and everything in life that I ever need or want is going to be right before me.
+
+**Link(s) to work**: ![Screen Shot 2021-11-21 at 11 27 54 PM](https://user-images.githubusercontent.com/78430591/142801281-1f35ee79-5bcd-4902-8df6-d799b28d3d1e.png)
 
 
 
