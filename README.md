@@ -223,7 +223,7 @@
 
 **Thoughts**: Learned the implementation for removing a node in a singly linked list
 
-**Link(s) to work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
+**Screenshot of work**: [https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
 
 ### Day 28: November 19-21, 2021
 
@@ -231,7 +231,7 @@
 
 **Thoughts**: I have to learn to be consistent but it's a learning process that I am going to overcome. Before you know it im going to look up and everything in life that I ever need or want is going to be right before me.
 
-**Link(s) to work**: ![Screen Shot 2021-11-21 at 11 27 54 PM](https://user-images.githubusercontent.com/78430591/142801281-1f35ee79-5bcd-4902-8df6-d799b28d3d1e.png)
+**Screenshot of work**: ![Screen Shot 2021-11-21 at 11 27 54 PM](https://user-images.githubusercontent.com/78430591/142801281-1f35ee79-5bcd-4902-8df6-d799b28d3d1e.png)
 
 ### Day 29: November 23-29, 2021
 
@@ -239,7 +239,8 @@
 
 **Thoughts**: Learning the concepts of the code rather than memorizing the syntax is better because it gives you an overall understanding of whats going on rather than this goes here and that goes there because of what you remember.
 
-**Link(s) to work**: ![Screen Shot 2021-12-02 at 9 00 57 PM](https://user-images.githubusercontent.com/78430591/144532227-aae3b2f0-498c-4b82-83b0-b2ee349352bd.png)
+**Screenshot of work**: 
+![Screen Shot 2021-12-02 at 9 00 57 PM](https://user-images.githubusercontent.com/78430591/144532227-aae3b2f0-498c-4b82-83b0-b2ee349352bd.png)
 
 
 
