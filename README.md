@@ -239,8 +239,9 @@
 
 **Thoughts**: Learning the concepts of the code rather than memorizing the syntax is better because it gives you an overall understanding of whats going on rather than this goes here and that goes there because of what you remember.
 
-**Screenshot of work**: 
-![Screen Shot 2021-12-02 at 9 00 57 PM](https://user-images.githubusercontent.com/78430591/144532227-aae3b2f0-498c-4b82-83b0-b2ee349352bd.png)
+**Screenshot of work**: ![Screen Shot 2021-12-02 at 9 06 08 PM](https://user-images.githubusercontent.com/78430591/144533837-1f704a73-0f68-44f3-8f87-58be85645c56.png)
+
+
 
 
 
