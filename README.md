@@ -233,5 +233,13 @@
 
 **Link(s) to work**: ![Screen Shot 2021-11-21 at 11 27 54 PM](https://user-images.githubusercontent.com/78430591/142801281-1f35ee79-5bcd-4902-8df6-d799b28d3d1e.png)
 
+### Day 29: November 23-29, 2021
+
+**Today's Progress**: Finally learned how to implement the social sign in within the app. Was a long process but with dedication and hardwork, I was able to implement it into the swift app. It's still a work in progress but the SDK is setup.
+
+**Thoughts**: Learning the concepts of the code rather than memorizing the syntax is better because it gives you an overall understanding of whats going on rather than this goes here and that goes there because of what you remember.
+
+**Link(s) to work**: ![Screen Shot 2021-12-02 at 9 00 57 PM](https://user-images.githubusercontent.com/78430591/144532227-aae3b2f0-498c-4b82-83b0-b2ee349352bd.png)
+
 
 
