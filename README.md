@@ -243,6 +243,17 @@
 
 ![Screen Shot 2021-12-02 at 9 21 47 PM](https://user-images.githubusercontent.com/78430591/144533920-2c068566-7377-4887-aaf9-86ba6c69dc9b.png)
 
+### Day 30: Decemeber 1, 2021
+
+**Today's Progress**: Working on a website working on my css skills. I was working on it all week but never logged my progress.
+
+**Thoughts**: I really needed this to revamp my css skills. Im almost done working on it and the mobile design is done.
+
+**Screenshot of work**: 
+
+
+<img width="424" alt="Screen Shot 2021-12-08 at 12 28 00 PM" src="https://user-images.githubusercontent.com/78430591/145255186-adb54b92-9634-4d57-89eb-830733b1562d.png">
+
 
 
 
