@@ -254,6 +254,15 @@
 
 <img width="424" alt="Screen Shot 2021-12-08 at 12 28 00 PM" src="https://user-images.githubusercontent.com/78430591/145255186-adb54b92-9634-4d57-89eb-830733b1562d.png">
 
+### Day 31: Decemeber 13, 2021
+
+**Today's Progress**: Finally finished singly-linked-list data structure vids. Next up, doubly-linked-list :)
+
+**Thoughts**: I love learning new things. I've came so far from believing i'll never be able to learn this to creating websites and understanding complex solutions for coding challenges.
+
+**Link(s) to work**: 
+
+[https://github.com/Jalen-Foreman/code-every-day/blob/master/singly_linked_list.js]
 
 
 
